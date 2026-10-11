@@ -16,7 +16,7 @@ on:
 
 env:
   VERSION_NAME: "1.0.0"
-  APP_ID: "com.airaproyects.ecoaira"
+  APP_ID: "com.airaproyects.aira"
   APP_URL: "https://eco-aira.lovable.app"
 
 jobs:
